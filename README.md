@@ -3,29 +3,29 @@
 Maria an employee of the Colorado State School Board has asked for our team’s assistance in updating and reperforming an analysis for a dataset containing various Colorado high schools reading and math scores. The School Board has asked we clean the data set to remove math and reading scores for 9th graders at Thomas High School, as the data for this High School has been unintentionally altered. The Colorado School Board has asked for our assistance with completing the following tasks:
 1. Remove the math and reading scores for 9th graders at Thomas High School
 2. Create/reperform the following summaries with the updated math and reading scores:
-A. A District Summary that encapsulates the following:
--  Total Schools
--  Total Students
--  Total Budget
-- Average Math Score
-- Average Reading Score
-- Percentage of Students Passing Math
-- Percentage of Students Passing Reading
-- Overall Percentage of Students Passing Reading and Math
-B.  A School Summary showing the following items for each school:
-- Total Students
-- Total Budget
-- Average Math Score
-- Average Reading Score
-- Percentage of Students Passing Math
-- Percentage of Students Passing Reading
-- Overall Percentage of Students Passing Reading and Math   
-C. Show the top 5 and bottom 5 performing schools, based on the overall passing rate
-D.  A summary of the average math score for each grade level from each school
-E.  A summary the average reading score for each grade level from each school
-F. A summary of the scores based on school spending per student
-G. A summary of the scores by school size
-H. A summary of the scores by  school type 
+  - A District Summary that encapsulates the following:
+      -  Total Schools
+      -  Total Students
+      -  Total Budget
+      - Average Math Score
+      - Average Reading Score
+      - Percentage of Students Passing Math
+      - Percentage of Students Passing Reading
+      - Overall Percentage of Students Passing Reading and Math
+  - A School Summary showing the following items for each school:
+      - Total Students
+      - Total Budget
+      - Average Math Score
+      - Average Reading Score
+      - Percentage of Students Passing Math
+      - Percentage of Students Passing Reading
+      - Overall Percentage of Students Passing Reading and Math   
+  - Show the top 5 and bottom 5 performing schools, based on the overall passing rate
+  - A summary of the average math score for each grade level from each school
+  - A summary the average reading score for each grade level from each school
+  - A summary of the scores based on school spending per student
+  - A summary of the scores by school size
+  - A summary of the scores by  school type 
 
 ## Resources
 - Data Source: students_complete.csv, schools_complete.csv
