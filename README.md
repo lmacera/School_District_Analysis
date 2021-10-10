@@ -42,7 +42,7 @@ Based on the results of the above listed summaries our team was able to compare 
 Below is our original District Summary
 ![ Original_District Summary]( https://github.com/lmacera/School_District_Analysis/blob/main/Resources%202/Original_District%20Summary.PNG )
 
-Shown below is he updated District Summary with the Thomas High School 9th grader grades removed 
+Below is the updated District Summary (with the Thomas High School 9th grader grades removed )
 ![ New_District Summary]( https://github.com/lmacera/School_District_Analysis/blob/main/Resources%202/New_District%20Summary.PNG )
 
 **Results:**
